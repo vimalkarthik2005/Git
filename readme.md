@@ -1,6 +1,7 @@
-This is demo file to learn git and github 
+*This is demo file to learn git and github 
 
-This is changes in feature branch
+*This is changes in feature branch
 
-Hello Git Main
-Hello Git Democonflict
+*Hello Git Main
+
+*Hello Git Democonflict
